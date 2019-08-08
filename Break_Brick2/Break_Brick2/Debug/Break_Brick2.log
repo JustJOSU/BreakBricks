@@ -1,0 +1,3 @@
+﻿  breakBrick_v1.2.cpp
+c:\users\xc111\downloads\break_brick2\break_brick2\breakbrick_v1.2.cpp(275): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Break_Brick2.vcxproj -> C:\Users\xc111\Downloads\Break_Brick2\Debug\Break_Brick2.exe
